@@ -1,0 +1,25 @@
+{
+  "name": "js-responsitory",
+  "version": "1.0.0",
+  "description": "js",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quanqiushoujila/js-responsitory.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "kk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quanqiushoujila/js-responsitory/issues"
+  },
+  "homepage": "https://github.com/quanqiushoujila/js-responsitory#readme"
+}
